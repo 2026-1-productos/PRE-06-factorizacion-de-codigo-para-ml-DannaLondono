@@ -1,6 +1,5 @@
 # Configuración en MacOS y Linux
 
-
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
@@ -14,7 +13,7 @@ source setup.sh
 Ejecute los siguientes comandos en el terminal:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 .venv\Scripts\activate
 setup
 ```
@@ -26,8 +25,3 @@ Ejecute el siguiente comando en el terminal:
 ```bash
 pytest
 ```
-
-
-
-
-
