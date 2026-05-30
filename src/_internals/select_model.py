@@ -1,3 +1,5 @@
+"""Seleccion del modelo a partir de los argumentos de linea de comandos."""
+
 from sklearn.linear_model import ElasticNet
 from sklearn.neighbors import KNeighborsRegressor
 

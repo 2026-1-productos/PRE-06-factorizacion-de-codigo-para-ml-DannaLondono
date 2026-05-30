@@ -1,5 +1,3 @@
-# parse_argument.py
-
 import argparse
 
 
